@@ -11,6 +11,6 @@ Large Model Remediation Engineer, 🎓 Master’s degree holder, 🤯 a technica
 ##  Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,astro,nextjs,nuxtjs,flutter,bun,java,nodejs,go,python,rust" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,astro,nextjs,nuxtjs,flutter,bun,java,nodejs,go,python,rust&theme=light" alt="tech stack" />
 </p>
 
