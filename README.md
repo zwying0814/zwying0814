@@ -1,6 +1,6 @@
 # Hi 👋, I'm Veen
 
-<img align="right" alt="img" src="ajuan.webp" height="180" />
+<img align="right" alt="img" src="ajuan.webp" height="200" />
 
 你好呀，我是Veen! 你也可以叫我**阿卷**哦！
 
@@ -11,6 +11,6 @@ LLM cleanup engineer 🧑‍💻 · Tech idealist 🤯 · A human with low mater
 ##  Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vue,solidjs,astro,nextjs,nuxtjs,flutter,bun,java,nodejs,go,py,php,rust&theme=light" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,solidjs,nextjs,nuxtjs,astro,flutter,bun,nodejs,go,py,java,rust&theme=light" alt="tech stack" />
 </p>
 
